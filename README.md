@@ -55,6 +55,6 @@ Before setting up the project, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <project_directory>
+git clone https://github.com/mirakib33/order-management-system-microservices.git
+cd order-management-system-microservices
 
